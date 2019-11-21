@@ -520,6 +520,19 @@ input[type="submit"]:hover {
     top: 2rem;
     right: 2rem;
   }
+  .landing-text marquee h1 {
+    text-align: center;
+    font-size: 5rem;
+  }
+  .landing-text marquee h6 {
+    font-size: 0.7rem;
+  }
+  .mh6 {
+    width: 200px;
+  }
+  .mh1 {
+    width: 250px;
+  }
   .landing-text h1 {
     font-size: 8rem;
   }
@@ -558,18 +571,11 @@ input[type="submit"]:hover {
   .up {
     right: 2rem;
   }
+  body {
+    background: url("images/sitebg.jpg") no-repeat center fixed;
+    background-size: cover;
+    overflow-x: hidden;
+  }
 }
 
-.table {
-  background-color: #ffe838;
-  color: #16162d;
-  margin-left: 20em;
-}
-body {
-  width: 100%;
-  height: 100%;
-  background: url("images/sitebg.jpg") no-repeat center fixed;
-  background-size: cover;
-  overflow-x: hidden;
-}
 /*End media queries*/
