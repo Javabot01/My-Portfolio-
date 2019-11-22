@@ -471,6 +471,19 @@ input[type="submit"]:hover {
     background-size: cover;
     overflow-x: hidden;
   }
+  .landing-text marquee h1 {
+    text-align: center;
+    font-size: 3rem;
+  }
+  .landing-text marquee h6 {
+    font-size: 0.7rem;
+  }
+  .mh6 {
+    width: 500px;
+  }
+  .mh1 {
+    width: 550px;
+  }
   .landing-text h1 {
     font-size: 15rem;
   }
@@ -581,6 +594,9 @@ input[type="submit"]:hover {
   }
   .profile-img {
     margin-right: 0;
+  }
+  img {
+    width: 80%;
   }
 }
 
