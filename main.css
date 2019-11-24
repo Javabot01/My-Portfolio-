@@ -473,22 +473,17 @@ input[type="submit"]:hover {
   }
   .landing-text marquee h1 {
     text-align: center;
-    font-size: 3rem;
+    font-size: 10rem;
   }
   .landing-text marquee h6 {
     font-size: 0.7rem;
+    font-size: 1.7rem;
   }
   .mh6 {
     width: 500px;
   }
   .mh1 {
-    width: 750px;
-  }
-  .landing-text h1 {
-    font-size: 15rem;
-  }
-  .landing-text h6 {
-    font-size: 1.7rem;
+    width: 550px;
   }
   .nav-list {
     flex-direction: column;
