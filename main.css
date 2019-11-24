@@ -482,7 +482,7 @@ input[type="submit"]:hover {
     width: 500px;
   }
   .mh1 {
-    width: 550px;
+    width: 750px;
   }
   .landing-text h1 {
     font-size: 15rem;
@@ -597,6 +597,9 @@ input[type="submit"]:hover {
   }
   img {
     width: 80%;
+  }
+  .about-details {
+    text-align: unset;
   }
 }
 
